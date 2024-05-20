@@ -78,7 +78,9 @@ Pourquoi utiliser AltDirecte ?
 * Des fonctionnalités inédites avec StudySuite
 * Et une interface plus belle et intuitive
 
-AltDirecte n'a pas pour but de remplacer EcoleDirecte mais de l'améliorer pour proposer des fonctionnalités exclusives pour un meilleur suivi. 
+AltDirecte n'a pas pour but de remplacer EcoleDirecte mais de l'améliorer pour proposer des fonctionnalités exclusives pour un meilleur suivi.
+
+Le code source et l'application seront disponibles au mois de septembre. Je tiens à remercier tous les beta testeurs de StudySuite pour avoir permis d'améliorer cette application.
 
 <p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
@@ -86,14 +88,10 @@ AltDirecte n'a pas pour but de remplacer EcoleDirecte mais de l'améliorer pour 
 
 ### Fait Avec
 
-Pour créer AltDirecte (version StudySuite) nous avons utilisé ces librairies et frameworks :
+Pour créer AltDirecte nous avons utilisé ces librairies et frameworks :
 
 * [![Unity][Unity]][Unity-url]
 * [![CSharp][CSharp]][CSharp-url]
-
-Pour créer AltDirecte (version standalone) nous avons utilisé ces librairies et frameworks :
-
-On ne sait pas encore :smile:
 
 <p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
