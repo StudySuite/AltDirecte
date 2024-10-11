@@ -23,7 +23,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 <!-- PROJECT LOGO -->
@@ -70,17 +71,16 @@
 
 [![AltDirecte - Page d'acceuil][product-screenshot]](https://studysuite.fr)
 
-Redécouvrez EcoleDirecte dans une interface plus belle, plus pratique avec des fonctionnalités inédites. Des notifications supplémentaires pour ne pas manquer une nouvelle note, un rappel des devoirs à faire ou encore une synchronisation avec votre compte StudyID. 
+Redécouvrez EcoleDirecte dans une interface plus belle, plus pratique avec des fonctionnalités inédites. Des notifications supplémentaires pour ne pas manquer une nouvelle note, un rappel des devoirs, des changements de cours et bien plus
 
 Pourquoi utiliser AltDirecte ?
 * Plus simple d'utilisation
 * Des données reliées entre elles pour un meilleur suivi de vos notes
-* Des fonctionnalités inédites avec StudySuite
+* Des fonctionnalités inédites
+* Compatibilité future avec RéuSuite (nécessite un compte StudySuite)
 * Et une interface plus belle et intuitive
 
 AltDirecte n'a pas pour but de remplacer EcoleDirecte mais de l'améliorer pour proposer des fonctionnalités exclusives pour un meilleur suivi.
-
-Le code source et l'application seront disponibles au mois de septembre. Je tiens à remercier tous les beta testeurs de StudySuite pour avoir permis d'améliorer cette application.
 
 <p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
@@ -90,8 +90,8 @@ Le code source et l'application seront disponibles au mois de septembre. Je tien
 
 Pour créer AltDirecte nous avons utilisé ces librairies et frameworks :
 
-* [![Unity][Unity]][Unity-url]
-* [![CSharp][CSharp]][CSharp-url]
+* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+* ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
@@ -99,11 +99,23 @@ Pour créer AltDirecte nous avons utilisé ces librairies et frameworks :
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Notifications
-- [ ] Envois de mails
-- [ ] Correction de bugs
+- [ ] Connexion
+- [ ] Page d’acceuil
+- [ ] Notes
+- [ ] Emploi du temps
+- [ ] Vie Scolaire
+- [ ] Devoirs
+- [ ] Manuels
+- [ ] Carnet de correspondances 
+- [ ] Documents
+- [ ] Espaces de travail
 - [ ] Multi-comptes
 - [ ] Comptes Parents
+- [ ] Features exclusives
+  - [ ] Fonctionnement "Hors ligne" (ajout de devoirs non inscrit par des profs et +)
+  - [ ] Notifications
+  - [ ] Sauvegarde de ses notes
+  - [ ] Export et syncronisation vers RéuSuite (nécessite un compte StudySuite)
 
 Regardez les [Issues Ouvertes](https://github.com/StudySuite/AltDirecte/issues) Pour voir toutes les demandes de fonctionnalités (ou les bugs trouvés)
 
@@ -117,9 +129,6 @@ Regardez les [Issues Ouvertes](https://github.com/StudySuite/AltDirecte/issues) 
 Distribué sous licence MIT. Voir `LICENSE.txt` pour plus d'informations.
 
 <p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
-
-
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -138,10 +147,6 @@ Nous remercions ces repos/personnes pour l'aide qu'ils ont apporté au projet (n
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Unity]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
-[Unity-url]: https://unity.com
-[CSharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-[CSharp-url]: https://fr.wikipedia.org/wiki/C_Sharp
 
 [contributors-shield]: https://img.shields.io/github/contributors/StudySuite/AltDirecte.svg?style=for-the-badge
 [contributors-url]: https://github.com/StudySuite/AltDirecte/graphs/contributors
