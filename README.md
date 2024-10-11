@@ -90,8 +90,14 @@ AltDirecte n'a pas pour but de remplacer EcoleDirecte mais de l'améliorer pour 
 
 Pour créer AltDirecte nous avons utilisé ces librairies et frameworks :
 
-* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-* ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+Ce projet sera composé de 2 branches : 
+* [Main](https://github.com/StudySuite/AltDirecte/tree/main)
+  * La branche ```main``` qui contiendra le code de l'application en version stable, testé et 100% fonctionnelle.
+* [Dev](https://github.com/StudySuite/AltDirecte/tree/dev)
+  *  La branche ```dev``` qui contiendra le code de l'application en version de test/développement, non testé, surement avec des bugs, mais avec les nouvelles fonctionnalités
 
 <p align="right">(<a href="#readme-top">Retour en haut</a>)</p>
 
