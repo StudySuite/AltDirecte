@@ -105,7 +105,8 @@ Ce projet sera composé de 2 branches :
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Connexion
+- [x] Connexion
+  - [x] Double Authentification
 - [ ] Page d’acceuil
 - [ ] Notes
 - [ ] Emploi du temps
