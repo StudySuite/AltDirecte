@@ -55,7 +55,7 @@
     <li>
       <a href="#a-propos-de-altdirecte">A propos de AltDirecte</a>
       <ul>
-        <li><a href="#fait-avec">Fait avec</a></li>
+        <li><a href="#technologies">Technologies</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -86,7 +86,7 @@ AltDirecte n'a pas pour but de remplacer EcoleDirecte mais de l'améliorer pour 
 
 
 
-### Fait Avec
+### Technologies
 
 Pour créer AltDirecte nous avons utilisé ces librairies et frameworks :
 
@@ -107,9 +107,9 @@ Ce projet sera composé de 2 branches :
 
 - [x] Connexion
   - [x] Double Authentification
-- [ ] Page d’acceuil
-- [ ] Notes
-- [ ] Emploi du temps
+- [x] Page d’acceuil
+- [x] Notes
+- [x] Emploi du temps
 - [ ] Vie Scolaire
 - [ ] Devoirs
 - [ ] Manuels
