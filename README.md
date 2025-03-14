@@ -110,7 +110,15 @@ Ce projet sera composé de 2 branches :
 - [x] Page d’acceuil
 - [x] Notes
 - [x] Emploi du temps
-- [ ] Vie Scolaire
+- [x] Vie Scolaire
+  - [x] Absences/Retards
+  - [ ] Colles/Sanctions/Incidents
+  - [ ] Dispenses
+- [x] Messagerie
+  - [x] Lecture
+  - [x] Pièces Jointes
+  - [ ] Envoi
+  - [ ] Boites personnalisées
 - [ ] Devoirs
 - [ ] Manuels
 - [ ] Carnet de correspondances 
